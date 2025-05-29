@@ -30,7 +30,7 @@ database system PostgreSQL to create database. Designed user interface and trans
 ![EER](https://github.com/GAYATRI-SIVANI-SUSARLA/Relational_Database_System/blob/main/Travel%20Agency%20System_final%20(1)-1.png)
 
 #### Notations
-![notation](https://github.com/GAYATRI-SIVANI-SUSARLA/Relational_Database_System/blob/main/photos/Screenshot%202025-05-29%20130720.png)
+![notation](https://github.com/GAYATRI-SIVANI-SUSARLA/Relational_Database_System/blob/main/photos/Screenshot%202025-05-07%20194211.png)
 
 ## Code
 - Creation of database system, tables and queries are mentioned here: [SQL CODE](https://github.com/GAYATRI-SIVANI-SUSARLA/Relational_Database_System/blob/main/PROJECT_ISE503.sql)
